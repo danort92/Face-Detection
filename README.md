@@ -1,6 +1,6 @@
 ## FaceFinder - A Face Detection Model
 
-![plot] ([http://url/to/img.png](https://cdn.technologyreview.com/i/images/Face%20detection.png))
+![plot]([http://url/to/img.png](https://cdn.technologyreview.com/i/images/Face%20detection.png))
 
 Face Detection algorithm that takes an image in input and provides the same image with bounding boxes around the detected faces. 
 Creation from scratch, no use of pre-trained models.
