@@ -484,12 +484,12 @@ def hard_negative_mining(hard_neg_set,neg_set,pos_set, n_hard_mined=5000):
 
 
 
-## RUNNING CODE
+### RUNNING CODE
 
 Before providing the URL link of the image you want to detect faces, you can decide to:
 - run the data augmentation on the train set (it may help in improving detection)
 - save the trained model for future use and choose location where it will be saved
 - load an already trained model from a specified location
   
-After the detection you can deide to perform an hard negative mining (it may improve the detection reducing false positives)
+You can also decide to perform an hard negative mining (it may improve the detection reducing false positives).
 
