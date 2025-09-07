@@ -5,6 +5,8 @@
 Face Detection algorithm that takes an image in input and provides the same image with bounding boxes around the detected faces. 
 Creation from scratch, no use of pre-trained models.
 
+![image](images/ae6eb2865c6b4b9ca36815bb2083c5b3.jpg)
+
 The training phase is based on the following steps:
 * _import Caltech images set;_
 * _data augmentation through imgaug library's functions;_
